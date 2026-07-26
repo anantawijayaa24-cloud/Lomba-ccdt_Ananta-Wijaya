@@ -19,4 +19,5 @@ langkah-langkahnya untuk menjalankan projectnya:
 Itu dia langkah-langkah untuk menjalankan project menggunakan Tailwind melalui NPM.
 
 Berikut Inilah link untuk akses demo hasil deployment website yang telah saya buat ke Vercel:
--
+- Deployment : https://vercel.com/anantawijaya/lomba-ccdt-ananta-wijaya/9WiAZ3H5ydVfdW3jvSWg5VhC326f
+- Domains : https://lomba-ccdt-ananta-wijaya.vercel.app/
